@@ -11,7 +11,7 @@ Chat Page Ui made using Reactjs and ChakraUi
 ![Screenshot 2024-08-01 192312](https://github.com/user-attachments/assets/f6d596e0-1d85-4d6c-a2bd-1d40f625f416)
 
 
-Chat Group craetion functionality
+Chat Group creation functionality
 
 ![Screenshot 2024-08-01 192425](https://github.com/user-attachments/assets/7bc8fe43-faa1-4611-a9e1-0a5b775678aa)
 
